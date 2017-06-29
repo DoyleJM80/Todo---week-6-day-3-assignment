@@ -1,0 +1,31 @@
+{
+  "name": "todo-list",
+  "version": "1.0.0",
+  "description": "todo list express practice",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheDoyles922/week-5-day-3-project.git"
+  },
+  "keywords": [
+    "express",
+    "mustache"
+  ],
+  "author": "Jamie Doyle",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/TheDoyles922/week-5-day-3-project/issues"
+  },
+  "homepage": "https://github.com/TheDoyles922/week-5-day-3-project#readme",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "express-validator": "^3.2.0",
+    "mustache-express": "^1.2.4",
+    "pg": "^6.4.0",
+    "sequelize": "^4.2.0"
+  }
+}
